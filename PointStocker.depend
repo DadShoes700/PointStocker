@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1545211626 source:c:\users\cosma\desktop\projet\langagec\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	"function.h"
+
+1545174353 c:\users\cosma\desktop\projet\langagec\bib.h
+
+1545173196 source:c:\users\cosma\desktop\projet\langagec\fonctions.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+
+1545217599 source:c:\users\cosma\desktop\projet\langagec\function.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<io.h>
+
+1545215340 c:\users\cosma\desktop\projet\langagec\function.h
+
